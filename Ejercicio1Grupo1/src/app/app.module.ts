@@ -11,14 +11,15 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     RegistroComponent,
     NavbarComponent,
-    PaginaInicioComponent,
     DashboardComponent
+    PaginaInicioComponent
   ],
   imports: [
     BrowserModule,
