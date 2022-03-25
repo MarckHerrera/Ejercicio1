@@ -12,6 +12,7 @@ const routes: Routes = [
   { path: 'navbar', component: NavbarComponent },
   { path: 'inicio', component: PaginaInicioComponent },
   { path: 'dashboard', component: DashboardComponent },
+]
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

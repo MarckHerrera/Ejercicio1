@@ -18,7 +18,7 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
     LoginComponent,
     RegistroComponent,
     NavbarComponent,
-    DashboardComponent
+    DashboardComponent,
     PaginaInicioComponent
   ],
   imports: [
